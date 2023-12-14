@@ -465,7 +465,6 @@ describe('Buscador Odontoseg (Belo Horizonte - MG)', () => {
       cy.get('.close').click({force:true})
       
       // cy.wait(2000)
-                 
     
                 })
           })
